@@ -7,6 +7,7 @@
 [ ] https://vkvideo.ru/video-242131414_456239033
 [ ] https://github.com/TimofeyBessonov/study_2025-2026_os-intro
 [ ] https://github.com/TimofeyBessonov/study_2025-2026_os-intro/releases/tag/1.1.0
+[ ] https://gitverse.ru/TimofeyBessonov/study_2025-2026_os-intro
 
 [ ] Ссылка на плейлист на хостингах
 [ ] https://vkvideo.ru/video-242131414_456239033
